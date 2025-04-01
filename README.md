@@ -1,6 +1,7 @@
 # Fictional-store-Dashboard
 🛒 Fake Store Dashboard created using Power BI and enriched with data generated in Python using the amazing  library!
-✨What I Did
+---
+###✨What I Did
 
 I started by leveraging the  library to generate realistic and fictional data for a complete sales system project. This includes creating six interconnected CSV tables:
 - **Customers** 🧑‍🤝‍🧑  
